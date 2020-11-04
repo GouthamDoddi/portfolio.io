@@ -1,5 +1,6 @@
 {
   "files": {
+
     "main.css": "/portfolio.io/static/css/main.01d618fa.chunk.css",
     "main.js": "/portfolio.io/static/js/main.ea9ec593.chunk.js",
     "main.js.map": "/portfolio.io/static/js/main.ea9ec593.chunk.js.map",
@@ -18,5 +19,6 @@
     "static/js/2.abc54c27.chunk.js",
     "static/css/main.01d618fa.chunk.css",
     "static/js/main.ea9ec593.chunk.js"
+
   ]
 }
